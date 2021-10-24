@@ -1,8 +1,17 @@
 p {
-	background-color: green;
+
+}
+
+h2 {
+	background-color: pink;
+	color: royalblue;
 }
 
 h1 {
 	color: white;
 	background-color: black;
+}
+
+* {
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
